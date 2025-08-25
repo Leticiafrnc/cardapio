@@ -1,4 +1,4 @@
-# Landing Page - Pedido de Gás
+# Cardápio
  Esse projeto foi desenvolvido para estudo com objetivo dele é treinar HTML, Tailwind CSS e Js .
 
 <h4 align="center"> 
@@ -12,7 +12,7 @@
 ### 🏁 Instalação
 
 Antes de começar, é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
-Clone este repositório usando git clone: https://github.com/Leticiafrnc/gas-pedido.git ou clique em Code/Download ZIP. Clique no arquivo "index.HTML" e veja a aplicação.
+Clone este repositório usando git clone: https://github.com/Leticiafrnc/cardapio.git ou clique em Code/Download ZIP. Clique no arquivo "index.HTML" e veja a aplicação.
 
 ### 🛠 Tecnologias
 
