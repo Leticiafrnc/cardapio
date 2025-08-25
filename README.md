@@ -1,5 +1,5 @@
 # Cardápio
- Esse projeto foi desenvolvido para estudo com objetivo dele é treinar HTML, Tailwind CSS e Js .
+ Esse projeto foi desenvolvido para estudo com objetivo dele é treinar HTML, Tailwind CSS e Js, desenvolvendo um menu de hamburgueria, onde os pedidos são direcionados ao whatsapp com quantidade e valores. 
 
 <h4 align="center"> 
 🚀 Finalizado
